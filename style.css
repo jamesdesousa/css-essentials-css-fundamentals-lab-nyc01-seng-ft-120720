@@ -22,9 +22,11 @@ figcaption {
   font-size: smaller;
 }
 
-featured-property ~ p {
-  
+#featured-property p {
+  margin: auto;
+  width: 800px;
 }
+
 
 
 
