@@ -6,7 +6,7 @@ body {
 
 h1 {
   margin: auto;
-  width:;
+  width:90%;
 }
 
 img {
@@ -14,7 +14,6 @@ img {
 }
 
 a {
-  text-align:center;
   padding-left: 10px;
   padding-right: 10px;
   background: grey;
